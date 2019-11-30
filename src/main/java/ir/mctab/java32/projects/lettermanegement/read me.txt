@@ -1,4 +1,0 @@
-this is a exercise for useCase
-this is the second test
-this the third test
-this the fourth test
